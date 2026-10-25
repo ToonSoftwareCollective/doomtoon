@@ -1,0 +1,21 @@
+1.0.4
+- Downloads DoomToon from the latest release of
+  ToonSoftwareCollective/doomtoon when there is no archive next to the app
+  (the store version of the app carries none). Same DoomToon image (1.0.3).
+1.0.3
+- DoomToon 1.0.3: a game pad that goes away and comes back (Bluetooth
+  sleep, cable pulled) is picked up again during the game; a stick that
+  rests off-centre (Switch Pro on USB) no longer walks by itself; the
+  pad is remembered under its name.
+1.0.2
+- DoomToon 1.0.2: the Toon's USB port works as a host: a game pad on a
+  cable works at once, and a PlayStation pad plugged in once is paired
+  over Bluetooth.
+1.0.1
+- Own look: dark, Doom-red start screen and tile, own wording.
+- DoomToon 1.0.1: boot splash; "Picture: 4:3 / full screen" on the
+  first screen; the start-up program stops cleanly on SIGTERM.
+1.0.0
+- First version: puts DoomToon (Chocolate Doom 3.1.1, shareware DOOM1.WAD,
+  PC speaker sound on the buzzer, Bluetooth game pads) in place and starts
+  it once. After Doom the Toon restarts into its own software.
